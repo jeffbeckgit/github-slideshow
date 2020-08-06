@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+!Dump the Chump!
 Use the left arrow to go back!
